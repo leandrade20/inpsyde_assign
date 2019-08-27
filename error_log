@@ -1,0 +1,6 @@
+[24-Aug-2019 17:35:58 UTC] PHP Fatal error:  Call to undefined function rwmb_meta() in /home/juvoclients/inpsydeproject.juvoclients.com/wp-content/themes/blankslate/functions.php on line 196
+[24-Aug-2019 18:41:15 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/juvoclients/inpsydeproject.juvoclients.com/wp-content/themes/blankslate/functions.php on line 307
+[24-Aug-2019 18:41:22 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/juvoclients/inpsydeproject.juvoclients.com/wp-content/themes/blankslate/functions.php on line 307
+[24-Aug-2019 18:42:18 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/juvoclients/inpsydeproject.juvoclients.com/wp-content/themes/blankslate/functions.php on line 307
+[24-Aug-2019 18:42:19 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/juvoclients/inpsydeproject.juvoclients.com/wp-content/themes/blankslate/functions.php on line 307
+[24-Aug-2019 19:31:03 UTC] PHP Fatal error:  Cannot redeclare member_add_meta_box() (previously declared in /home/juvoclients/inpsydeproject.juvoclients.com/wp-content/themes/blankslate/functions.php:217) in /home/juvoclients/inpsydeproject.juvoclients.com/wp-content/themes/blankslate/functions.php on line 317
